@@ -1,5 +1,4 @@
-#RESTful Blog
+RESTful Blog
 
->Small blog that demonstrates REST routes
+>Blog Site that demostates RESTful routes.
 
-_Tools Used:_ Semantic UI, Node.js, Express, MongoDB, Mongoose, EJS, REST routes
